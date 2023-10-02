@@ -1,0 +1,31 @@
+button{
+    border-bottom-width: 3px;
+    border-bottom-left-radius: 20%;
+    font-size:36px;
+    margin-top: 5px;
+    background-color: lightblue;
+    width: 80px;
+    height: 80
+    px;
+}
+.row{
+    border-width: 10px;
+}
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+input{
+    font-size: 34px;
+    height: 60px;
+    width: 340px;
+    border-radius: 5%;
+}
+
+button {
+    transition: all 0.5s ease;
+    background:floralwhite ;
+    }
+button:hover {
+    background: yellow;
+    }
